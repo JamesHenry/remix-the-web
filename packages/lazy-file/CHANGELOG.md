@@ -1,3 +1,12 @@
+## 3.3.0 (2024-09-04)
+
+
+### 🚀 Features
+
+- **@mjackson/lazy-file:** Add writeFile method to lazy-file/fs and rename getFile => openFile
+
+You can read about our [versioning strategy](https://main--typescript-eslint.netlify.app/users/versioning) and [releases](https://main--typescript-eslint.netlify.app/users/releases) on our website.
+
 ## v3.0.0 (2024-08-25)
 
 - BREAKING: Do not accept regular string argument to `LazyFile`. This more closely matches `File` behavior
